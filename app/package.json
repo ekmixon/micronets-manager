@@ -19,7 +19,7 @@
     "moment": "^2.24.0",
     "mongoose": "^5.7.7",
     "morgan": "^1.9.1",
-    "nodemon": "^1.19.4",
+    "nodemon": "^2.0.3",
     "ramda": "^0.26.1",
     "serve-favicon": "^2.5.0",
     "url-loader": "^2.2.0",
