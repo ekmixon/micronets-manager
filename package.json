@@ -76,7 +76,7 @@
     "js-cookie": "^2.2.0",
     "moment": "^2.24.0",
     "mongodb": "^3.3.3",
-    "mongoose": "^5.7.7",
+    "mongoose": "^6.4.6",
     "nodemon": "^1.19.4",
     "promise-events": "^0.1.4",
     "ramda": "^0.26.1",
