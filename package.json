@@ -107,14 +107,14 @@
     "request-promise": "^4.2.4",
     "semistandard": "^13.0.1",
     "shx": "^0.3.2",
-    "vue": "^2.6.10",
+    "vue": "^3.0.0",
     "vue-feathers": "^0.1.0",
     "vue-loader": "^15.7.1",
     "vue-router": "^3.0.7",
     "vue-template-compiler": "^2.6.10",
     "vuex": "^3.1.1",
     "vuex-router-sync": "^5.0.0",
-    "webpack": "^4.41.2",
+    "webpack": "^5.0.0",
     "webpack-dev-middleware": "^3.7.2",
     "webpack-merge": "^4.2.1"
   }
