@@ -23,7 +23,7 @@
     "ramda": "^0.26.1",
     "serve-favicon": "^2.5.0",
     "url-loader": "^2.2.0",
-    "vue": "^2.6.4",
+    "vue": "^3.0.0",
     "vue-router": "^3.0.1",
     "vue-status-indicator": "^1.2.1",
     "vuelidate": "^0.7.4",
@@ -80,7 +80,7 @@
     "vue-loader": "^13.3.0",
     "vue-style-loader": "^3.1.2",
     "vue-template-compiler": "^2.5.2",
-    "webpack": "^3.6.0",
+    "webpack": "^5.0.0",
     "webpack-bundle-analyzer": "^2.9.0",
     "webpack-dev-server": "^2.9.1",
     "webpack-merge": "^4.1.0"
